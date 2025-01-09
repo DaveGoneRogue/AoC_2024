@@ -125,9 +125,9 @@ def dampener_test(dataframe):
     for index in unsafe_reports_ls:
         element = dataframe['report'][index]
         # manipulte this element and run some new check
-        
+
 
     
     return None
 
-dampener_test(safe_checked_df)
+#dampener_test(safe_checked_df)
